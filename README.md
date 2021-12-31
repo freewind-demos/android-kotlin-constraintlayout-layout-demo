@@ -1,6 +1,6 @@
-Android Kotlin Hello World Project
+Android Kotlin Constraint Layout Project
 ===========================
 
-Run this demo from your IDE.
+使用`constraintlayout`在界面中心放个Text
 
-注：无法通过命令行`./gradlew installDebug`部署
+Run `MainActivity` from your IDE.
